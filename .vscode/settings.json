@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "sdl_wrapper.h": "c",
+        "forces.h": "c",
+        "stdbool.h": "c",
+        "state.h": "c",
+        "vector.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "type_traits": "c",
+        "sdl.h": "c"
+    }
+}
